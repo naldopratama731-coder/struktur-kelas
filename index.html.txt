@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Struktur Kelas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Struktur Kelas</h1>
+
+<div class="container">
+
+    <div class="card">
+        <img src="img/foto1.jpg">
+        <h3>Nama: Andi Saputra</h3>
+        <p>NIM: 22123456</p>
+    </div>
+
+    <div class="card">
+        <img src="img/foto2.jpg">
+        <h3>Nama: Budi Santoso</h3>
+        <p>NIM: 22123457</p>
+    </div>
+
+</div>
+
+</body>
+</html>
