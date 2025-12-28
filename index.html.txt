@@ -12,13 +12,13 @@
 <div class="container">
 
     <div class="card">
-        <src="foto1.jpg.jpg">
+        <struktur-kelas src="foto1.jpg.jpg">
         <h3>Nama: Andi Saputra</h3>
         <p>NIM: 22123456</p>
     </div>
 
     <div class="card">
-        <src="foto2.jpg.jpg">
+        <struktur-kelas src="foto2.jpg.jpg">
         <h3>Nama: Budi Santoso</h3>
         <p>NIM: 22123457</p>
     </div>
@@ -27,5 +27,6 @@
 
 </body>
 </html>
+
 
 
