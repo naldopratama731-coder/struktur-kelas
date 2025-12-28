@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Struktur Kelas</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css.txt">
 </head>
 <body>
 
@@ -12,13 +12,13 @@
 <div class="container">
 
     <div class="card">
-        <struktur-kelas src="foto1.jpg.jpg">
+        <src="foto1.jpg.jpg">
         <h3>Nama: Andi Saputra</h3>
         <p>NIM: 22123456</p>
     </div>
 
     <div class="card">
-        <struktur-kelas src="foto2.jpg.jpg">
+        <src="foto2.jpg.jpg">
         <h3>Nama: Budi Santoso</h3>
         <p>NIM: 22123457</p>
     </div>
